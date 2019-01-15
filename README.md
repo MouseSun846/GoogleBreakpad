@@ -1,7 +1,7 @@
-# GoogleBreakpad
+# Google Breakpad
 
 #### 介绍
-1. 利用GoogleBreakpad捕获Android Native层异常
+1. 利用Google Breakpad捕获Android Native层异常
 2. 可直接使用该项目中build文件生成的.so库运用到自己的项目中
 
 #### 安装教程
