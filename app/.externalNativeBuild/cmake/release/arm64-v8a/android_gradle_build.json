@@ -18,21 +18,21 @@
 			[
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=D:/03_AndroidSDK/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/03_AndroidSDK/Sdk/ndk-bundle/sysroot  -Dcrash_lib_EXPORTS -isystem D:\\03_AndroidSDK\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem D:\\03_AndroidSDK\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem D:/03_AndroidSDK/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -std=c++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"flags" : "  --sysroot=D:/03_AndroidSDK/ndk/android-ndk-r16b/sysroot  -Dcrash_lib_EXPORTS -isystem D:\\03_AndroidSDK\\ndk\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\03_AndroidSDK\\ndk\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\arm64-v8a\\include -isystem D:\\03_AndroidSDK\\ndk\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/03_AndroidSDK/ndk/android-ndk-r16b/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O2 -DNDEBUG  -fPIC    -c ",
 					"src" : "E:/20_Frank/GoogleBreakpad/app/src/main/cpp/crash-lib.cpp",
 					"workingDirectory" : "E:/20_Frank/GoogleBreakpad/app/.externalNativeBuild/cmake/release/arm64-v8a"
 				}
 			],
 			"output" : "E:/20_Frank/GoogleBreakpad/app/build/intermediates/cmake/release/obj/arm64-v8a/libcrash-lib.so",
-			"toolchain" : "3161876961"
+			"toolchain" : "1206861829"
 		}
 	},
 	"toolchains" : 
 	{
-		"3161876961" : 
+		"1206861829" : 
 		{
-			"cCompilerExecutable" : "D:/03_AndroidSDK/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
-			"cppCompilerExecutable" : "D:/03_AndroidSDK/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+			"cCompilerExecutable" : "D:/03_AndroidSDK/ndk/android-ndk-r16b/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64/bin/aarch64-linux-android-gcc.exe",
+			"cppCompilerExecutable" : "D:/03_AndroidSDK/ndk/android-ndk-r16b/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64/bin/aarch64-linux-android-g++.exe"
 		}
 	}
 }
