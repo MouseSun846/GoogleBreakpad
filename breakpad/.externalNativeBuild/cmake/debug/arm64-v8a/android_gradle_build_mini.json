@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "E:\\20_Frank\\GoogleBreakpad\\breakpad\\CMakeLists.txt",
+    "E:\\20_Frank\\GoogleBreakpad\\breakpad\\src\\main\\cpp\\breakpad\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\03_AndroidSDK\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "breakpad-Debug-arm64-v8a": {
+      "artifactName": "breakpad",
+      "buildCommand": "D:\\03_AndroidSDK\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target breakpad",
+      "abi": "arm64-v8a",
+      "output": "E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\\src\\main\\cpp\\breakpad\\libbreakpad.a"
+    },
+    "breakpad-core-Debug-arm64-v8a": {
+      "artifactName": "breakpad-core",
+      "buildCommand": "D:\\03_AndroidSDK\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target breakpad-core",
+      "abi": "arm64-v8a",
+      "output": "E:\\20_Frank\\GoogleBreakpad\\breakpad\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libbreakpad-core.so"
+    }
+  }
+}

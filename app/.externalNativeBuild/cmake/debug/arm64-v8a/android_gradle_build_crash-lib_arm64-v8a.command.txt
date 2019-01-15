@@ -1,0 +1,8 @@
+Executable : D:\03_AndroidSDK\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+E:\20_Frank\GoogleBreakpad\app\.externalNativeBuild\cmake\debug\arm64-v8a
+--target
+crash-lib
+jvmArgs : 
+

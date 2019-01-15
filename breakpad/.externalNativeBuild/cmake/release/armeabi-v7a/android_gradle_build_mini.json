@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "E:\\20_Frank\\GoogleBreakpad\\breakpad\\CMakeLists.txt",
+    "E:\\20_Frank\\GoogleBreakpad\\breakpad\\src\\main\\cpp\\breakpad\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\03_AndroidSDK\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "breakpad-Release-armeabi-v7a": {
+      "artifactName": "breakpad",
+      "buildCommand": "D:\\03_AndroidSDK\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target breakpad",
+      "abi": "armeabi-v7a",
+      "output": "E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\release\\armeabi-v7a\\src\\main\\cpp\\breakpad\\libbreakpad.a"
+    },
+    "breakpad-core-Release-armeabi-v7a": {
+      "artifactName": "breakpad-core",
+      "buildCommand": "D:\\03_AndroidSDK\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\20_Frank\\GoogleBreakpad\\breakpad\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target breakpad-core",
+      "abi": "armeabi-v7a",
+      "output": "E:\\20_Frank\\GoogleBreakpad\\breakpad\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libbreakpad-core.so"
+    }
+  }
+}

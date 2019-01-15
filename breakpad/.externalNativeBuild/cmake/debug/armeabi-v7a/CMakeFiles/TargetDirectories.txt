@@ -1,0 +1,6 @@
+E:/20_Frank/GoogleBreakpad/breakpad/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/breakpad-core.dir
+E:/20_Frank/GoogleBreakpad/breakpad/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/20_Frank/GoogleBreakpad/breakpad/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/20_Frank/GoogleBreakpad/breakpad/.externalNativeBuild/cmake/debug/armeabi-v7a/src/main/cpp/breakpad/CMakeFiles/rebuild_cache.dir
+E:/20_Frank/GoogleBreakpad/breakpad/.externalNativeBuild/cmake/debug/armeabi-v7a/src/main/cpp/breakpad/CMakeFiles/breakpad.dir
+E:/20_Frank/GoogleBreakpad/breakpad/.externalNativeBuild/cmake/debug/armeabi-v7a/src/main/cpp/breakpad/CMakeFiles/edit_cache.dir
